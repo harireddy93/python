@@ -96,6 +96,13 @@ Time Complexty : O(n) ( Amount of time taken is based on index where the target 
 Space complexity  : O(1) ( Amount of space taken in memory is constant since it always prints)
 """
 
+# Array Pop - this will delete the last value of the array
+
+print(a)
+
+a.pop()
+
+print("After array pop function {}".format(a))
 
 
     
